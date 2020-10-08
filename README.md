@@ -1,2 +1,5 @@
 # hello-world
-Hello, my name is Daniel
+
+Hi Humans!
+
+Daniel Here, I like MySQL and CoffeeScript (that's what I'm made for)
